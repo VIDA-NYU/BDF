@@ -9,7 +9,7 @@ description:        ""
 
 
 # URL
-url:                https://VIDA-NYU.github.io/BDF
+url:                https://VIDA-NYU.github.io/BDF/
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
