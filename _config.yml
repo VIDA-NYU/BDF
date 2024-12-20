@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording Lab"
-title:              "Kording Lab at the University of Pennsylvania"
-description:        "The Kording Lab is a computational neuroscience and causality research group at the University of Pennsylvania."
+name:               ""
+title:              ""
+description:        ""
 
 
 # URL
-url:                http://kordinglab.com
+url:                https://VIDA-NYU.github.io/BDF
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -26,16 +26,15 @@ nav:
     href:           "/"
   - name:           "about"
     href:           "/about"
+  - name:           "tools"
+    href:           "/tools"
   - name:           "publications"
-    href:           "/publication"
-  - name:           "people"
-    href:           "/people"
-  # - name:           "blog"
-    # href:           "/blog"
-#   - name:           "abstracts"
-#     href:           "/abstracts"
-  - name:           "lab teachings"
-    href:           "/presentations"
+    href:           "/publications"
+  - name:           "team"
+    href:           "/team"
+#  - name:           "blog"
+#    href:           "/blog"
+  
 
 # Sass
 sass:
