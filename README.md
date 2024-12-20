@@ -1,6 +1,5 @@
-# Kording lab page
-
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+# BDF Project Web Page
+This is the repository for the BDF project web page (NYU team). We use Jekyll to run our Github page. 
 
 ## Run the page locally using Jekyll
 
@@ -12,7 +11,7 @@ sudo gem install rouge
 jekyll serve
 ```
 
-## Editing the lab website
+## Editing the lab web page
 
 Below, we explain how to edit the lab webpage
 
@@ -37,7 +36,7 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
-The changes will take approximately half a minute to render. You can see the new posts or changes on [kordinglab.com](http://kordinglab.github.io/)!
+The changes will take approximately half a minute to render.
 
 ### Add yourself
 
@@ -49,7 +48,7 @@ name: Eva Dyer
 position: postdoc
 avatar: eva.jpg
 twitter:
-joined: 2014
+joined: 2024
 ---
 ```
 
