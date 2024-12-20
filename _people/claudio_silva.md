@@ -1,5 +1,6 @@
 ---
 name: Claudio Silva
 position: co
-avatar: 
+avatar: claudio_silva.jpg
+new_url: https://ctsilva.github.io/
 ---
