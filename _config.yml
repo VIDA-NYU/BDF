@@ -9,8 +9,8 @@ description:        ""
 
 
 # URL
-url:                https://VIDA-NYU.github.io/BDF/
-baseurl:            
+url:                https://VIDA-NYU.github.io
+baseurl:            /BDF
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
@@ -23,15 +23,15 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "home"
-    href:           "/"
+    href:           "/BDF/"
   - name:           "about"
-    href:           "/about"
+    href:           "/BDF/about"
   - name:           "tools"
-    href:           "/tools"
+    href:           "/BDF/tools"
   - name:           "publications"
-    href:           "/publications"
+    href:           "/BDF/publications"
   - name:           "team"
-    href:           "/team"
+    href:           "/BDF/team"
 #  - name:           "blog"
 #    href:           "/blog"
   
