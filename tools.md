@@ -24,7 +24,7 @@ research.
 
 ### BDI-Viz
 
-BDIViz is a powerful, interactive tool designed as an extension to BDIKit to assist biomedical researchers and domain experts in performing schema matching tasks. Built to address the challenges of matching complex biomedical datasets, BDIViz leverages a visual approach to streamline the process and enhance both speed and accuracy.
+BDI-Viz is a powerful, interactive tool designed as an extension to BDI-Kit to assist biomedical researchers and domain experts in performing schema matching tasks. Built to address the challenges of matching complex biomedical datasets, BDI-Viz leverages a visual approach to streamline the process and enhance both speed and accuracy.
 
 
 <div style="text-align: center;">
