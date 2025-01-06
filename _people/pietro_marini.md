@@ -1,5 +1,5 @@
 ---
 name: Pietro Marini
-position: gradstudent
+position: mscstudent
 avatar: 
 ---
