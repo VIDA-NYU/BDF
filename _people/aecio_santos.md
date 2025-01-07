@@ -1,5 +1,6 @@
 ---
-name: Aecio Santos
+name: Aécio Santos
 position: researchstaff
-avatar: 
+avatar: aecio_santos.jpg
+new_url : https://aeciosantos.com/
 ---
