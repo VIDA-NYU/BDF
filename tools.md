@@ -16,8 +16,8 @@ research.
 <div style="text-align: center;">
   <p>
     <a href="https://github.com/VIDA-NYU/bdi-kit"><i class="fa fa-github"></i> GitHub</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://bdi-kit.readthedocs.io/en/latest/"><i class="fa fa-book"></i> Documentation</a>&nbsp;&nbsp;&nbsp;
-    <a href="#"><i class="fa fa-play"></i> Demo</a>
+    <a href="https://bdi-kit.readthedocs.io/"><i class="fa fa-book"></i> Documentation</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://drive.google.com/file/d/1gMlZuocYrKFQYDZOphIyFj-nvjtx4ODR/view"><i class="fa fa-play"></i> Demo</a>
 </p>
 </div>
 
@@ -30,7 +30,7 @@ BDI-Viz is a powerful, interactive tool designed as an extension to BDI-Kit to a
 <div style="text-align: center;">
   <p>
     <a href="https://github.com/VIDA-NYU/bdi-viz"><i class="fa fa-github"></i> GitHub</a>&nbsp;&nbsp;&nbsp;
-    <a href="#"><i class="fa fa-book"></i> Documentation</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://drive.google.com/file/d/1eAbDicO0oXIbbVg56m3H8xdNDDsBGBLI/view"><i class="fa fa-play"></i> Demo</a>
+    <a href="https://vida-nyu.github.io/bdi-viz-manual/"><i class="fa fa-book"></i> Documentation</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://drive.google.com/file/d/1RY3XjRmLIkBNjcZWkUZhG3vA-ZvPc6Ug/view?usp=drive_link"><i class="fa fa-play"></i> Demo</a>
 </p>
 </div>
