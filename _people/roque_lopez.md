@@ -1,5 +1,6 @@
 ---
 name: Roque Lopez
 position: researchstaff
-avatar:
+avatar: roque_lopez.jpg
+new_url: https://roquelopez.com/
 ---
