@@ -24,8 +24,6 @@ highlighter:        rouge
 nav:
   - name:           "home"
     href:           "/BDF/"
-  - name:           "about"
-    href:           "/BDF/about"
   - name:           "tools"
     href:           "/BDF/tools"
   - name:           "publications"
