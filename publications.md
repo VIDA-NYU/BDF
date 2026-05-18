@@ -3,8 +3,6 @@ title: Publications
 permalink: /publications/
 ---
 
-<hr>
-
 ### 2026
 
 _BDI-Kit Demo: A Toolkit for Programmable and Conversational Data Harmonization_<br>
@@ -56,3 +54,5 @@ MLGenX@ICLR [[paper](https://openreview.net/pdf?id=mpvp5KP8fR)][[code](https://g
 _Enhancing Biomedical Schema Matching with LLM-based Training Data Generation_<br>
 Yurong Liu, Aécio Santos, Eduardo Pena, Roque Lopez, Eden Wu, Juliana Freire <br>
 TRL@NeurIPS [[paper](https://openreview.net/pdf?id=RMZVUP7NgL)]
+
+<hr>
