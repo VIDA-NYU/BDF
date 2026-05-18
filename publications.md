@@ -20,6 +20,8 @@ Roque Lopez, Aécio Santos, Christos Koutras, Juliana Freire<br>
 Patterns [[paper](https://www.sciencedirect.com/science/article/pii/S2666389925003186)][[code](https://github.com/VIDA-NYU/bdi-kit)]
 
 
+<hr>
+
 ### 2025
 
 _Interactive Data Harmonization with LLM Agents: Opportunities and Challenges_<br>
@@ -46,6 +48,8 @@ SDP [[paper](https://aclanthology.org/2025.sdp-1.10.pdf)][[code](https://github.
 _Gene Set Function Discovery with LLM-Based Agents and Knowledge Retrieval_<br>
 Daniela Pinto Veizaga, Aécio Santos, Juliana Freire, Wenke Liu, Sarah Keegan, David Fenyo<br>
 MLGenX@ICLR [[paper](https://openreview.net/pdf?id=mpvp5KP8fR)][[code](https://github.com/VIDA-NYU/discoverar)]
+
+<hr>
 
 ### 2024
 
