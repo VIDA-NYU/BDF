@@ -19,6 +19,7 @@ permalink: /tools/
   </div>
 </div>
 
+<hr>
 
 ### BDI-Viz
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
@@ -35,3 +36,5 @@ permalink: /tools/
     </p>
   </div>
 </div>
+
+<hr>
