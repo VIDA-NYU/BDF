@@ -38,3 +38,20 @@ permalink: /tools/
 </div>
 
 <hr>
+
+### Data-Gatherer
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <div style="flex: 1; padding-right: 20px;">
+    <img src="{{site.baseurl}}/images/tools/data-gatherer.png" alt="Data-Gatherer" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2; text-align: justify;">
+    Data Gatherer, a Python library for automatically discovering and extracting dataset references from scientific publications. By combining rule-based methods and large language models, Data Gatherer identifies dataset mentions from full-text articles and produces structured, machine-readable outputs. The system helps researchers accelerate dataset discovery, data reuse, and biomedical knowledge integration across the scientific literature.
+    <br><br>
+    <p>
+      <a href="https://github.com/VIDA-NYU/data-gatherer"><i class="fa fa-github"></i> GitHub</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://data-gatherer.readthedocs.io/"><i class="fa fa-book"></i> Docs</a>&nbsp;&nbsp;&nbsp;
+    </p>
+  </div>
+</div>
+
+<hr>
