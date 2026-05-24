@@ -2,7 +2,7 @@
   details: "Two demos accepted at SIGMOD 2026: BDI-Kit Demo and BDIViz in Action."
 
 - date: 2026-03-10
-  details: "'BDI-Kit: An AI-powered Toolkit for Biomedical Data Harmonization' was published in Patterns."
+  details: "'<a href='https://www.cell.com/patterns/fulltext/S2666-3899(25)00318-6' target='_blank'>BDI-Kit: An AI-powered Toolkit for Biomedical Data Harmonization</a>' was published in Patterns."
 
 - date: 2025-09-20
   details: "We presented 'Interactive Data Harmonization with LLM Agents: Opportunities and Challenges' at NOVAS@SIGMOD 2025."

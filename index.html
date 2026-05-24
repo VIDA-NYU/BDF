@@ -7,17 +7,72 @@ layout: default
 
       <p style="text-align: justify;">
         The <a href="https://arpa-h.gov/explore-funding/programs/arpa-h-bdf-toolbox"> Biomedical Data Fabric (BDF) Toolbox project</a>, led by the Advanced Research Projects Agency for Health (ARPA-H), aims to improve the integration and usability of biomedical data collected across thousands of labs, hospitals, and research centers. The project addresses challenges caused by incompatible data formats, siloed systems, and limited interoperability, enabling large-scale and privacy-preserving biomedical data analysis.
-      </p>
-      
-      <img class='img-responsive center-block' src="{{site.baseurl}}/images/logo/nyu_bdf.webp" width="80%" height="80%" />
+  </p>
+
+<figure style="text-align: center; margin: 1.5em 0;">
+  <img class='img-responsive center-block' 
+       src="{{site.baseurl}}/images/tools/bdikit-overview.png" width="80%" height="80%" 
+       alt="NYU BDF Harmonization Infrastructure diagram"/>
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    The NYU BDF harmonization infrastructure. BDI-Kit provides a shared library of 
+    composable primitives that power BDI-Viz (interactive schema curation) and Harmonia 
+    (conversational harmonization agent), and is designed to be extended by contributors 
+    and integrated with external AI agents via MCP.
+  </figcaption>
+</figure>
+  
       
       <p style="text-align: justify;">
-        At <a href="https://vida.engineering.nyu.edu/">VIDA Lab at NYU</a>, we develop AI-powered tools to support biomedical data harmonization. Our work focuses on helping researchers integrate heterogeneous biomedical datasets more efficiently using large language models, interactive visualization, and conversational interfaces through projects such as BDI-Kit and BDIViz.
-      </p>
+        At <a href="https://vida.engineering.nyu.edu/">VIDA Lab at NYU</a>, we develop  <a href="{{site.baseurl}}/papers">novel 
+  AI-powered methods</a> and <a
+        href="{{site.baseurl}}/tools">open-source systems</a> to support biomedical data harmonization and 
+  discovery. Our research advances the state of the art in dataset
+        discovery, schema matching, agentic data 
+  integration, and AI-powered scientific reasoning, combining large language models, 
+  interactive visualization, and conversational interfaces. 
+
+  </p>
+
+<div style="display: flex; gap: 20px; margin: 2em 0; text-align: left;">
+
+  <div style="flex: 1; background: #f8f8f8; border-radius: 8px; padding: 20px; 
+              border-top: 4px solid #57068c;">
+    <h4>Novel Methods</h4>
+    <p>Our research contributions include: cost-effective and accurate 
+    <a href="{{site.baseurl}}/papers">schema matching</a> that outperforms state-of-the-art approaches on biomedical benchmarks; 
+    agentic harmonization that enables domain experts to construct reusable data pipelines 
+    through natural language; and LLM-powered dataset discovery in scientific publications. 
+    <!-- and a novel framework for evaluating the mechanistic reasoning of AI 
+    co-scientists.-->
+    </p>
+  </div>
+
+  <div style="flex: 1; background: #f8f8f8; border-radius: 8px; padding: 20px; 
+              border-top: 4px solid #57068c;">
+    <h4>Open-Source Systems</h4>
+    <p>We have released <a href="{{site.baseurl}}/tools">five open-source tools</a> — 
+    BDI-Kit, BDI-Viz, Harmonia, Data Gatherer, and Discovera — adopted by multiple 
+    BDF program teams and freely available to the research community.</p>
+  </div>
+
+  <div style="flex: 1; background: #f8f8f8; border-radius: 8px; padding: 20px; 
+              border-top: 4px solid #57068c;">
+    <h4>Benchmarks </h4>
+    <p> We have created two new benchmarks — one for <a
+              href="https://zenodo.org/doi/10.5281/zenodo.14963587">
+              biomedical schema matching</a> and one for 
+    <a href="https://zenodo.org/doi/10.5281/zenodo.14963587"> dataset
+              discovery in scientific publications</a> — available to
+              the community.
+    </p>
+  </div>
+
+</div>
+  
 
       <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
         <div style="text-align:left">
-          <h3> Recent News </h3>
+          <h3> News </h3>
           <span style="display: block; margin-bottom: 1em"></span>
           <div class="news">
               {% capture since_date %}{{'2025-01-01' | date: '%s'}}{% endcapture %}
