@@ -41,6 +41,21 @@ permalink: /tools/
 
 <hr>
 
+### Harmonia
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <div style="flex: 1; padding-right: 20px;">
+    <img src="{{site.baseurl}}/images/tools/harmonia.png" alt="Harmonia" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2; text-align: justify;">
+    Harmonia is an LLM-based interactive data harmonization agent built on top of the BDI-Kit library that supports user-in-the-loop data integration. It combines large language models with specialized data integration primitives to construct and refine harmonization pipelines, generate code when needed, and incorporate user feedback. The agent can also evaluate intermediate outputs, correct errors, or request user input, enabling flexible and adaptive data harmonization workflows.
+    <br><br>
+    <p>
+      <a href="https://github.com/VIDA-NYU/harmonia"><i class="fa fa-github"></i> GitHub</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.youtube.com/watch?v=D25x0B_xs3c"><i class="fa fa-play"></i> Video</a>&nbsp;&nbsp;&nbsp;
+    </p>
+  </div>
+</div>
+
 ### Data-Gatherer
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 1; padding-right: 20px;">
