@@ -26,6 +26,8 @@ nav:
     href:           "/BDF/"
   - name:           "tools"
     href:           "/BDF/tools"
+  - name:           "benchmarks"
+    href:           "/BDF/benchmarks"
   - name:           "publications"
     href:           "/BDF/publications"
   - name:           "team"
