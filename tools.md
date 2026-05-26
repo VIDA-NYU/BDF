@@ -71,4 +71,20 @@ permalink: /tools/
   </div>
 </div>
 
+
+### Discovera
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <div style="flex: 1; padding-right: 20px;">
+    <img src="{{site.baseurl}}/images/tools/discovera.png" alt="Discovera" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2; text-align: justify;">
+    Discovera, an interactive agent-based system for hypothesis generation and mechanistic discovery in functional genomics. Discovera combines bioinformatics tools, large language models, and retrieval-augmented generation to help researchers explore gene sets, perform functional enrichment analyses, and generate literature-grounded biological insights through an intuitive conversational interface.
+    <br><br>
+    <p>
+      <a href="https://github.com/VIDA-NYU/discovera"><i class="fa fa-github"></i> GitHub</a>&nbsp;&nbsp;&nbsp;
+    </p>
+  </div>
+</div>
+
+
 <hr>
