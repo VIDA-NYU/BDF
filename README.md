@@ -1,5 +1,7 @@
 # BDF Project Web Page
-This is the repository for the BDF project web page (NYU team). We use Jekyll to run our Github page. 
+This is the repository for the BDF project web page (NYU team): https://vida-nyu.github.io/BDF/
+
+We use Jekyll to run our Github page. 
 
 ## Run the page locally using Jekyll
 
