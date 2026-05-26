@@ -7,11 +7,11 @@ permalink: /publications/
 
 _BDI-Kit Demo: A Toolkit for Programmable and Conversational Data Harmonization_<br>
 Roque Lopez, Yurong Liu, Christos Koutras, Juliana Freire<br>
-SIGMOD (Demo) [[paper](https://arxiv.org/abs/2604.06405)][[code](https://github.com/VIDA-NYU/bdi-kit)]
+SIGMOD (Demo) [[paper](https://arxiv.org/abs/2604.06405)][[code](https://github.com/VIDA-NYU/bdi-kit)][[video](https://www.youtube.com/watch?v=AP0bF7nbLeQ)]
 
 _BDIViz in Action: Interactive Curation and Benchmarking for Schema Matching Methods_<br>
 Eden Wu, Christos Koutras, Cláudio Silva, Juliana Freire<br>
-SIGMOD (Demo) [[paper](https://arxiv.org/pdf/2604.10763)][[code](https://github.com/VIDA-NYU/bdi-viz)]
+SIGMOD (Demo) [[paper](https://arxiv.org/pdf/2604.10763)][[code](https://github.com/VIDA-NYU/bdi-viz)][[video](https://drive.google.com/file/d/1gbyijnJfJMTqUJka081qtpet29Rt8hWS/view?usp=drive_link)]
 
 _BDI-Kit: An AI-powered Toolkit for Biomedical Data Harmonization_<br>
 Roque Lopez, Aécio Santos, Christos Koutras, Juliana Freire<br>
@@ -24,12 +24,12 @@ Patterns [[paper](https://www.sciencedirect.com/science/article/pii/S26663899250
 
 _Interactive Data Harmonization with LLM Agents: Opportunities and Challenges_<br>
 Aécio Santos, Eduardo H. M. Pena, Roque Lopez, Juliana Freire<br>
-NOVAS@SIGMOD [[paper](https://arxiv.org/abs/2502.07132)][[code](https://github.com/VIDA-NYU/harmonia)]
+NOVAS@SIGMOD [[paper](https://arxiv.org/abs/2502.07132)][[code](https://github.com/VIDA-NYU/harmonia)][[video](https://www.youtube.com/watch?v=D25x0B_xs3c)]
 
 _BDIViz: An Interactive Visualization System for Biomedical Schema Matching with LLM-Powered Validation_<br>
 Eden Wu, Dishita G Turakhia, Guande Wu, Christos Koutras, Sarah Keegan,
 Wenke Liu, Beata Szeitz, David Fenyo, Cláudio Silva, Juliana Freire <br>
-VIS [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11299421)][[code](https://github.com/VIDA-NYU/bdi-viz)]
+VIS [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11299421)][[code](https://github.com/VIDA-NYU/bdi-viz)][[video](https://drive.google.com/file/d/1RY3XjRmLIkBNjcZWkUZhG3vA-ZvPc6Ug/view?usp=drive_link)]
 
 _Large Language Models for Data Discovery and Integration: Challenges and Opportunities_<br>
 Juliana Freire, Grace Fan, Benjamin Feuer, Christos Koutras, Yurong Liu, Eduardo Pena, Aécio Santos, Cláudio Silva, Eden Wu<br>
