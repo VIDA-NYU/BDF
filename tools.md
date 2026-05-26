@@ -14,7 +14,8 @@ permalink: /tools/
     <p>
       <a href="https://github.com/VIDA-NYU/bdi-kit"><i class="fa fa-github"></i> GitHub</a>&nbsp;&nbsp;&nbsp;
       <a href="https://bdi-kit.readthedocs.io/"><i class="fa fa-book"></i> Docs</a>&nbsp;&nbsp;&nbsp;
-      <a href="https://drive.google.com/file/d/1gMlZuocYrKFQYDZOphIyFj-nvjtx4ODR/view"><i class="fa fa-play"></i> Demo</a>
+      <a href="https://www.youtube.com/watch?v=AP0bF7nbLeQ"><i class="fa fa-play"></i> Video</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://colab.research.google.com/github/VIDA-NYU/bdi-kit/blob/devel/examples/quick-start.ipynb"><i class="fa fa-flask"></i> Demo</a>
     </p>
   </div>
 </div>
@@ -32,7 +33,8 @@ permalink: /tools/
     <p>
       <a href="https://github.com/VIDA-NYU/bdi-viz"><i class="fa fa-github"></i> GitHub</a>&nbsp;&nbsp;&nbsp;
       <a href="https://vida-nyu.github.io/bdi-viz-manual/"><i class="fa fa-book"></i> Docs</a>&nbsp;&nbsp;&nbsp;
-      <a href="https://drive.google.com/file/d/1RY3XjRmLIkBNjcZWkUZhG3vA-ZvPc6Ug/view?usp=drive_link"><i class="fa fa-play"></i> Demo</a>
+      <a href="https://www.youtube.com/watch?v=N9Q7Pc9dBjs"><i class="fa fa-play"></i> Video</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://bdiviz.users.hsrn.nyu.edu/dashboard/"><i class="fa fa-flask"></i> Demo</a>
     </p>
   </div>
 </div>
