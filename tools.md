@@ -56,6 +56,8 @@ permalink: /tools/
   </div>
 </div>
 
+<hr>
+
 ### Data-Gatherer
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 1; padding-right: 20px;">
@@ -71,6 +73,7 @@ permalink: /tools/
   </div>
 </div>
 
+<hr>
 
 ### Discovera
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
@@ -85,6 +88,5 @@ permalink: /tools/
     </p>
   </div>
 </div>
-
 
 <hr>
