@@ -81,7 +81,7 @@ permalink: /tools/
     <img src="{{site.baseurl}}/images/tools/discovera.png" alt="Discovera" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 2; text-align: justify;">
-    Discovera, an interactive agent-based system for hypothesis generation and mechanistic discovery in functional genomics. Discovera combines bioinformatics tools, large language models, and retrieval-augmented generation to help researchers explore gene sets, perform functional enrichment analyses, and generate literature-grounded biological insights through an intuitive conversational interface.
+    Despite rapid advances in high-throughput molecular profiling technologies, translating molecular signatures into mechanistic insights remains a major bottleneck in biomedical discovery. Discovera, a workflow-aligned AI agent for signature-to-mechanisms analysis that transforms molecular signatures into evidence-grounded mechanistic reports. Discovera combines LLM-based reasoning with a structured orchestration framework that mirrors expert analytical workflows, guiding the system through signature characterization, enrichment analysis, core gene prioritization, pathway synthesis, and literature-supported interpretation. Unlike general-purpose biomedical agents, Discovera is explicitly designed around the signature interpretation process and operates under evidence-use constraints that require mechanistic claims to be supported by intermediate analytical outputs and retrieved literature.
     <br><br>
     <p>
       <a href="https://github.com/VIDA-NYU/discovera"><i class="fa fa-github"></i> GitHub</a>&nbsp;&nbsp;&nbsp;
